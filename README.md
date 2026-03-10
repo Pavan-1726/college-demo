@@ -1,3 +1,4 @@
 # college-demo
-first repos
+first repository
+<br>
 Author-Pavan.K.P
